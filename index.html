@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <style>
+        #textbox {
+            width: 70vw;
+            height: 30vh;
+        }
+  
+        button {
+            width: 70px;
+            height: 40px;
+            background-color: green;
+            color: white;
+            border-radius: 10px;
+            box-shadow: grey;
+        }
+  
+        #clipboard {
+            width: 70vw;
+            margin: 50px;
+            background-color: green;
+            color: white;
+            padding: 20px;
+            font-size: x-large;
+        }
+    </style>
+</head>
+  
+<body>
+    <center>
+        <textarea id="textbox"></textarea><br />
+        <button onclick="copyText()">Copy</button>
+        <br />
+        <h1>Copied Text:</h1><br />
+        <span id="clipboard">NA</span>
+    </center>
+  
+    <script>
+        function copyText() {
+      
+            /* Select text area by id*/
+            var Text = document.getElementById("textbox");
+  
+            /* Select the text inside text area. */
+            Text.select();
+  
+            /* Copy selected text into clipboard */
+            navigator.clipboard.writeText(Text.value);
+  
+            /* Set the copied text as text for 
+            div with id clipboard */
+            document.getElementById("clipboard")
+                .innerHTML = Text.value;
+        }
+    </script>
+</body>
+  
+</html>
