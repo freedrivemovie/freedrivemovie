@@ -1,0 +1,139 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=altadefinizione.tienda&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 12241,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "Adippe"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "AltadefinizioneProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AltadefinizioneProvider.cs3",
+        "name": "AltadefinizioneProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animefenix.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 17633,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimefenixProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AnimefenixProvider.cs3",
+        "name": "AnimefenixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 16987,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeflvIOProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AnimeflvIOProvider.cs3",
+        "name": "AnimeflvIOProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www3.animeflv.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 16009,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeflvnetProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AnimeflvnetProvider.cs3",
+        "name": "AnimeflvnetProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.animesaturn.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 17154,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 3,
+        "internalName": "AnimeSaturnProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AnimeSaturnProvider.cs3",
+        "name": "AnimeSaturnProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.animeworld.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 21059,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "AnimeWorldProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AnimeWorldProvider.cs3",
+        "name": "AnimeWorldProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniplay.it&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 21601,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 4,
+        "internalName": "AniPlayProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AniPlayProvider.cs3",
+        "name": "AniPlayProvider"
+    }
+]
