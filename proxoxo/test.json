@@ -1,174 +1,20 @@
 [
-
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 14714,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "SeriesflixProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/SeriesflixProvider.cs3",
-        "name": "SeriesflixProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=skillshare.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 18235,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 14499,
         "status": 1,
         "language": "en",
         "authors": [
-            "Forthe"
+            "Sora"
         ],
         "tvTypes": [
-            "Others"
-        ],
-        "version": 5,
-        "internalName": "SkillShareProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/SkillShareProvider.cs3",
-        "name": "SkillShareProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 60809,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "Adippe",
-            "Forthe"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 2,
-        "internalName": "SoraItalianStream",
-        "description": "Provider che utilizza tmdb. Non tutti i links sono funzionanti",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/SoraItalianStream.cs3",
-        "name": "SoraItalianStream"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=starlive.xyz&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 14227,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "Adippe"
-        ],
-        "tvTypes": [
-            "Live"
+            "NSFW"
         ],
         "version": 3,
-        "internalName": "StarLiveProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/StarLiveProvider.cs3",
-        "name": "StarLiveProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=streamingcommunity.online&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 29691,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "Adippe"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "StreamingcommunityProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/StreamingcommunityProvider.cs3",
-        "name": "StreamingcommunityProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tantifilm.mobi&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 16714,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "Adippe"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "TantiFilmProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/TantiFilmProvider.cs3",
-        "name": "TantiFilmProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 24636,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "Adippe"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "TvItalianaProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/TvItalianaProvider.cs3",
-        "name": "TvItalianaProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvpolan.ml&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 7446,
-        "status": 1,
-        "language": "pl",
-        "authors": [
-            "Cloudburst"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "TvpolanProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/TvpolanProvider.cs3",
-        "name": "TvpolanProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=vf-film.me&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 8074,
-        "status": 1,
-        "language": "fr",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "VfFilmProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/VfFilmProvider.cs3",
-        "name": "VfFilmProvider"
-    }  
+        "internalName": "Hentaiheaven",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Hentaiheaven.cs3",
+        "name": "Hentaiheaven"
+    }
 ]
