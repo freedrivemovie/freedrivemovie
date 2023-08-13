@@ -1,170 +1,136 @@
 [
+
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=calciostreaming.live&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=entrepeliculasyseries.nu&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 8776,
+        "fileSize": 12249,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "EntrepeliculasyseriesProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/EntrepeliculasyseriesProvider.cs3",
+        "name": "EntrepeliculasyseriesProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www23.estrenosdoramas.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 17422,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "EstrenosDoramasProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/EstrenosDoramasProvider.cs3",
+        "name": "EstrenosDoramasProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=eurostreaming.social&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 11821,
         "status": 1,
         "language": "it",
+        "authors": [
+            "Adippe"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "EurostreamingProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/EurostreamingProvider.cs3",
+        "name": "EurostreamingProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filman.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 12601,
+        "status": 1,
+        "language": "pl",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "FilmanProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/FilmanProvider.cs3",
+        "name": "FilmanProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmpertutti.photo&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 14861,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "Adippe"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "FilmpertuttiProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/FilmpertuttiProvider.cs3",
+        "name": "FilmpertuttiProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 14773,
+        "status": 1,
         "authors": [
             "Adippe"
         ],
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
-        "internalName": "CalcioStreamingProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/CalcioStreamingProvider.cs3",
-        "name": "CalcioStreamingProvider"
+        "version": 1,
+        "internalName": "FreeTVProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/FreeTVProvider.cs3",
+        "name": "FreeTVProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=casacinema.lol&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=french-stream.ac&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 14733,
+        "fileSize": 18648,
         "status": 1,
-        "language": "it",
+        "language": "fr",
         "authors": [
-            "Forthe"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "CasaCinemaProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/CasaCinemaProvider.cs3",
-        "name": "CasaCinemaProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cineblog01.legal&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 11279,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "Adippe"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "CineBlog01Provider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/CineBlog01Provider.cs3",
-        "name": "CineBlog01Provider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cb01.rip&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 14155,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "Adippe"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "CineBlogProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/CineBlogProvider.cs3",
-        "name": "CineBlogProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.lol&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 15453,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            
+            "Sarlay",
+            "Eddy976"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
         "version": 1,
-        "internalName": "CinecalidadProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/CinecalidadProvider.cs3",
-        "name": "CinecalidadProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 18868,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "CuevanaProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/CuevanaProvider.cs3",
-        "name": "CuevanaProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dokumentalne.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 9196,
-        "status": 1,
-        "language": "pl",
-        "authors": [
-            "Cloudburst"
-        ],
-        "tvTypes": [
-            "Documentary"
-        ],
-        "version": 1,
-        "internalName": "DokumentalneProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/DokumentalneProvider.cs3",
-        "name": "DokumentalneProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasyt.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 17069,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 1,
-        "internalName": "DoramasYTProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/DoramasYTProvider.cs3",
-        "name": "DoramasYTProvider"
-    },
-    {
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 9429,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "ElifilmsProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/ElifilmsProvider.cs3",
-        "name": "ElifilmsProvider"
-    }
+        "internalName": "FrenchStreamProvider",
+        "description": "FRENCH STREAM en plus d'\u00eatre un site efficace et plaisant dispose d'un contenu visuel diversifi\u00e9",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/FrenchStreamProvider.cs3",
+        "name": "FrenchStreamProvider"
+    }    
 ]
