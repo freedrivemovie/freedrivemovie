@@ -1,69 +1,30 @@
 [
-
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=entrepeliculasyseries.nu&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=guardaserie.golf&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 12249,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "EntrepeliculasyseriesProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/EntrepeliculasyseriesProvider.cs3",
-        "name": "EntrepeliculasyseriesProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www23.estrenosdoramas.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 17422,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie",
-            "OVA"
-        ],
-        "version": 1,
-        "internalName": "EstrenosDoramasProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/EstrenosDoramasProvider.cs3",
-        "name": "EstrenosDoramasProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=eurostreaming.social&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 11821,
+        "fileSize": 12009,
         "status": 1,
         "language": "it",
         "authors": [
             "Adippe"
         ],
         "tvTypes": [
-            "TvSeries"
+            "TvSeries",
+            "Movie"
         ],
         "version": 3,
-        "internalName": "EurostreamingProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/EurostreamingProvider.cs3",
-        "name": "EurostreamingProvider"
+        "internalName": "GuardaSerieProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/GuardaSerieProvider.cs3",
+        "name": "GuardaSerieProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filman.cc&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdmovie2.run&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 12601,
+        "fileSize": 13509,
         "status": 1,
-        "language": "pl",
+        "language": "hi",
         "authors": [
             
         ],
@@ -71,35 +32,36 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
-        "internalName": "FilmanProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/FilmanProvider.cs3",
-        "name": "FilmanProvider"
+        "version": 3,
+        "internalName": "HDMovie5",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/HDMovie5.cs3",
+        "name": "HDMovie5"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filmpertutti.photo&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ilgeniodellostreaming.hair&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 14861,
+        "fileSize": 15410,
         "status": 1,
         "language": "it",
         "authors": [
-            "Adippe"
+            "Adippe",
+            "Forthe"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
         "version": 5,
-        "internalName": "FilmpertuttiProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/FilmpertuttiProvider.cs3",
-        "name": "FilmpertuttiProvider"
+        "internalName": "IlGenioDelloStreamingProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/IlGenioDelloStreamingProvider.cs3",
+        "name": "IlGenioDelloStreamingProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 14773,
+        "fileSize": 15628,
         "status": 1,
         "authors": [
             "Adippe"
@@ -108,29 +70,83 @@
             "Live"
         ],
         "version": 1,
-        "internalName": "FreeTVProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/FreeTVProvider.cs3",
-        "name": "FreeTVProvider"
+        "internalName": "IptvorgProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/IptvorgProvider.cs3",
+        "name": "IptvorgProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=french-stream.ac&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 18648,
+        "fileSize": 22125,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "JKAnimeProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/JKAnimeProvider.cs3",
+        "name": "JKAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=mesfilms.lol&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 16390,
         "status": 1,
         "language": "fr",
         "authors": [
-            "Sarlay",
-            "Eddy976"
+            "Sarlay"
         ],
         "tvTypes": [
-            "TvSeries",
             "Movie"
         ],
         "version": 1,
-        "internalName": "FrenchStreamProvider",
-        "description": "FRENCH STREAM en plus d'\u00eatre un site efficace et plaisant dispose d'un contenu visuel diversifi\u00e9",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/FrenchStreamProvider.cs3",
-        "name": "FrenchStreamProvider"
-    }    
+        "internalName": "MesFilmsProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/MesFilmsProvider.cs3",
+        "name": "MesFilmsProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=monoschinos2.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 16763,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "MonoschinosProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/MonoschinosProvider.cs3",
+        "name": "MonoschinosProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.mundodonghua.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 18331,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "MundoDonghuaProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/MundoDonghuaProvider.cs3",
+        "name": "MundoDonghuaProvider"
+    }
 ]
