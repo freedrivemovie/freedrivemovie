@@ -1,0 +1,8 @@
+{
+    "name": "Inidian Hindi FreeDriveMovie repo",
+    "description": "FreeDriveMovie Indian Hindi",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/indhindistream.json"
+    ]
+  }
