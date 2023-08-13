@@ -1,6 +1,6 @@
 {
-    "name": "Anime FreeDriveMovie repo",
-    "description": "FreeDriveMovie Anime",
+    "name": "Asian Drama FreeDriveMovie repo",
+    "description": "FreeDriveMovie Asian Drama",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/asiandramastream.json"
