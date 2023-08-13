@@ -1,20 +1,176 @@
 [
+
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=altadefinizione.tienda&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=neko-sama.fr&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 12241,
+        "fileSize": 25238,
         "status": 1,
-        "language": "it",
+        "language": "fr",
         "authors": [
-            "Adippe"
+            "Eddy"
         ],
         "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "NekosamaProvider",
+        "description": " Ce site fait son entr\u00e9e dans la cat\u00e9gorie des meilleurs sites animes Fran\u00e7ais. Il est tr\u00e8s fiable car quasiment tous ses liens vid\u00e9os marchent. Il propose des animes en \u00ab VF \u00bb version fran\u00e7aise et en \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/NekosamaProvider.cs3",
+        "name": "NekosamaProvider"
+    },
+    {
+        "iconUrl": "https://media.discordapp.net/attachments/1027568249900109875/1046110428402561025/JK8J1KX.png?width=%size%&height=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 19132,
+        "status": 1,
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 6,
+        "internalName": "NineGoalProvider",
+        "description": "",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/NineGoalProvider.cs3",
+        "name": "NineGoalProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisflix.li&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 15359,
+        "status": 0,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
             "Movie"
         ],
+        "version": 1,
+        "internalName": "PelisflixProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PelisflixProvider.cs3",
+        "name": "PelisflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelismart.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 11314,
+        "status": 0,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PeliSmartProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PeliSmartProvider.cs3",
+        "name": "PeliSmartProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 11054,
+        "status": 0,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PelisplusHDProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PelisplusHDProvider.cs3",
+        "name": "PelisplusHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.icu&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 14461,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PelisplusProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PelisplusProvider.cs3",
+        "name": "PelisplusProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.pinoy-hd.xyz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 12429,
+        "status": 1,
+        "language": "tl",
+        "authors": [
+            "Jace"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PinoyHDXyzProvider",
+        "description": "Pinoy HD Movies - High Definition",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PinoyHDXyzProvider.cs3",
+        "name": "PinoyHDXyzProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 27260,
+        "status": 1,
+        "language": "tl",
+        "authors": [
+            "Jace"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "PinoyMovies",
+        "description": "Includes PinoyMoviePediaProvider and PinoyMoviesEsProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PinoyMovies.cs3",
+        "name": "PinoyMovies"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.pinoymovieshub.ph&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 18804,
+        "status": 1,
+        "language": "tl",
+        "authors": [
+            "Jace"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
         "version": 3,
-        "internalName": "DubokuProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/DubokuProvider.cs3",
-        "name": "DubokuProvider"
+        "internalName": "PinoyMoviesHub",
+        "description": "Pinoy Movies Hub",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PinoyMoviesHub.cs3",
+        "name": "PinoyMoviesHub"
     }
 ]
