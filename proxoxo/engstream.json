@@ -36,7 +36,7 @@
             "TvSeries"
         ],
         "version": 8,
-        "internalName": "SuperStream",
+        "internalName": "FDM SuperStream",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/SuperStream.cs3",
         "name": "FDM SuperStream"
     },
@@ -54,7 +54,7 @@
             "Movie"
         ],
         "version": 2,
-        "internalName": "VidSrcProvider",
+        "internalName": "FDM VidSrcProvider",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/VidSrcProvider.cs3",
         "name": "FDM VidSrcProvider"
     },
