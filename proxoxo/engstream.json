@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/FDMProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+        "repositoryUrl": "https://t.me/fdm_again",
         "fileSize": 17880,
         "status": 1,
         "language": "ta",
@@ -38,7 +38,7 @@
         "version": 8,
         "internalName": "SuperStream",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/SuperStream.cs3",
-        "name": "SuperStream"
+        "name": "FDM SuperStream"
     },
     {
         "apiVersion": 1,
@@ -56,7 +56,7 @@
         "version": 2,
         "internalName": "VidSrcProvider",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/VidSrcProvider.cs3",
-        "name": "VidSrcProvider"
+        "name": "FDM VidSrcProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
@@ -79,7 +79,7 @@
         "internalName": "SoraStream",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
-        "name": "SoraStream"
+        "name": "FDM SoraStream"
     },     
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kimcartoon.li&sz=%size%",
@@ -97,6 +97,6 @@
         "version": 1,
         "internalName": "KimCartoonProvider",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/KimCartoonProvider.cs3",
-        "name": "KimCartoonProvider"
+        "name": "FDM KimCartoonProvider"
     }
 ]
