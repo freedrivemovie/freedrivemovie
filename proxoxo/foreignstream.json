@@ -202,5 +202,23 @@
         "internalName": "Dubbindo",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dubbindo.cs3",
         "name": "Dubbindo"
+    },
+        {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=eja.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
+        "fileSize": 10068,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "EjaTv",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/EjaTv.cs3",
+        "name": "EjaTv"
     }
 ]
