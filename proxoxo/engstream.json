@@ -80,64 +80,7 @@
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
         "name": "SoraStream"
-    },
-    {
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
-        "fileSize": 34159,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 2,
-        "internalName": "AnimePaheProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/AnimePaheProvider.cs3",
-        "name": "AnimePaheProvider"
-    }, 
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bestdubbedanime.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
-        "fileSize": 16975,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "DubbedAnimeProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/DubbedAnimeProvider.cs3",
-        "name": "DubbedAnimeProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kawaiifu.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
-        "fileSize": 13885,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "KawaiifuProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/KawaiifuProvider.cs3",
-        "name": "KawaiifuProvider"
-    },             
+    },     
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kimcartoon.li&sz=%size%",
         "apiVersion": 1,
