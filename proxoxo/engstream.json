@@ -38,7 +38,7 @@
         "version": 8,
         "internalName": "SuperStream",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/SuperStream.cs3",
-        "name": "SuperStream"
+        "name": "FDM SuperStream"
     },
     {
         "apiVersion": 1,
@@ -56,7 +56,7 @@
         "version": 2,
         "internalName": "VidSrcProvider",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/VidSrcProvider.cs3",
-        "name": "VidSrcProvider"
+        "name": "FDM VidSrcProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
