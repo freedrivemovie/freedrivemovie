@@ -1,38 +1,22 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/FDMProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 14499,
+        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+        "fileSize": 17880,
         "status": 1,
-        "language": "en",
+        "language": "ta",
         "authors": [
-            "Sora"
+            "LikDev-256"
         ],
         "tvTypes": [
-            "NSFW"
+            "Movie",
+            "TvSeries"
         ],
-        "version": 3,
-        "internalName": "Hentaiheaven",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Hentaiheaven.cs3",
-        "name": "Hentaiheaven"
-    },
-        {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=minioppai.org&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 20196,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Sora"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 6,
-        "internalName": "Minioppai",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Minioppai.cs3",
-        "name": "Minioppai"
+        "version": 1,
+        "internalName": "FDMProvider",
+        "description": "Indian Multi-language 4k Provider",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/assets/FDMProvider.cs3",
+        "name": "FDMProvider"
     }
 ]
