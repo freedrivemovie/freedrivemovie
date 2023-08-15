@@ -1,4 +1,24 @@
-[
+[   
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/FDMProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+        "fileSize": 17880,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "LikDev-256"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "FDMProvider",
+        "description": "Indian Multi-language 4k Provider",
+        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/FDMProvider.cs3",
+        "name": "FDMProvider"
+    },
     {
         "iconUrl": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/master/SuperStream/icon.png",
         "apiVersion": 1,
