@@ -1,22 +1,17 @@
-[   
+[
     {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdmovie2.run&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-    "fileSize": 13509,
-    "status": 1,
-    "language": "hi",
-    "authors": [
-        
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie"
-    ],
-    "version": 3,
-    "internalName": "HDMovie5",
-    "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/HDMovie5.cs3",
-    "name": "HDMovie5"
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdmovie2.run&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 13509,
+        "status": 1,
+        "language": "hi",
+        "authors": [],
+        "tvTypes": ["TvSeries", "Movie"],
+        "version": 3,
+        "internalName": "HDMovie5",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/HDMovie5.cs3",
+        "name": "HDMovie5"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/TamilYogiProvider/logo.png",
@@ -25,17 +20,12 @@
         "fileSize": 11654,
         "status": 1,
         "language": "ta",
-        "authors": [
-            "LikDev-256"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
+        "authors": ["LikDev-256"],
+        "tvTypes": ["TvSeries", "Movie"],
         "version": 7,
         "internalName": "TamilYogiProvider",
         "description": "Tamil Only Provider with frequent updates",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/TamilYogiProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/TamilYogiProvider.cs3",
         "name": "TamilYogiProvider"
     },
     {
@@ -44,16 +34,12 @@
         "fileSize": 12592,
         "status": 1,
         "language": "en",
-        "authors": [
-            "LikDev-256"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
+        "authors": ["LikDev-256"],
+        "tvTypes": ["TvSeries"],
         "version": 9,
         "internalName": "NOXXProvider",
-        "description": "HD TV Shows (Not all links are working because of a unsolvable issue)",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/NOXXProvider.cs3",
+        "description": "HD TV Shows (Not all links are working because of an unsolvable issue)",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/NOXXProvider.cs3",
         "name": "NOXXProvider"
     },
     {
@@ -63,16 +49,12 @@
         "fileSize": 15319,
         "status": 1,
         "language": "ta",
-        "authors": [
-            "LikDev-256"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
+        "authors": ["LikDev-256"],
+        "tvTypes": ["Movie"],
         "version": 5,
         "internalName": "EinthusanProvider",
         "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/EinthusanProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/EinthusanProvider.cs3",
         "name": "EinthusanProvider"
     },
     {
@@ -82,17 +64,12 @@
         "fileSize": 47568,
         "status": 1,
         "language": "hi",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["TvSeries", "Movie"],
         "version": 39,
         "internalName": "Movierulzhd",
         "description": "Include: Hdmovie2",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/Movierulzhd.cs3",
         "name": "Movierulzhd"
     }
 ]
