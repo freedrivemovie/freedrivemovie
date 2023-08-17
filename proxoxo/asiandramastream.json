@@ -6,17 +6,11 @@
         "fileSize": 12831,
         "status": 1,
         "language": "zh",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
         "version": 1,
         "internalName": "DubokuProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DubokuProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/asiandrama/DubokuProvider.cs3",
         "name": "DubokuProvider"
     },
     {
@@ -26,19 +20,13 @@
         "fileSize": 17422,
         "status": 1,
         "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie",
-            "OVA"
-        ],
+        "authors": [],
+        "tvTypes": ["AsianDrama", "Movie", "OVA"],
         "version": 1,
         "internalName": "EstrenosDoramasProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/EstrenosDoramasProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/asiandrama/EstrenosDoramasProvider.cs3",
         "name": "EstrenosDoramasProvider"
-    },      
+    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.pinoy-hd.xyz&sz=%size%",
         "apiVersion": 1,
@@ -46,17 +34,12 @@
         "fileSize": 12429,
         "status": 1,
         "language": "tl",
-        "authors": [
-            "Jace"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie"
-        ],
+        "authors": ["Jace"],
+        "tvTypes": ["AsianDrama", "Movie"],
         "version": 1,
         "internalName": "PinoyHDXyzProvider",
         "description": "Pinoy HD Movies - High Definition",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PinoyHDXyzProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/asiandrama/PinoyHDXyzProvider.cs3",
         "name": "PinoyHDXyzProvider"
     },
     {
@@ -66,15 +49,11 @@
         "fileSize": 12985,
         "status": 1,
         "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AsianDrama"],
         "version": 4,
         "internalName": "DramaSerial",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaSerial.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/asiandrama/DramaSerial.cs3",
         "name": "DramaSerial"
     },
     {
@@ -84,18 +63,11 @@
         "fileSize": 18834,
         "status": 1,
         "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AsianDrama", "TvSeries", "Anime", "Movie"],
         "version": 4,
         "internalName": "KisskhProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KisskhProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/asiandrama/KisskhProvider.cs3",
         "name": "KisskhProvider"
     },
     {
@@ -105,35 +77,26 @@
         "fileSize": 15984,
         "status": 1,
         "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AsianDrama"],
         "version": 3,
         "internalName": "Kissasian",
         "description": "Include: KissasianMx",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Kissasian.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/asiandrama/Kissasian.cs3",
         "name": "Kissasian"
     },
-        {
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asiaflix.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
         "fileSize": 17850,
         "status": 0,
         "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "OVA"
-        ],
+        "authors": [],
+        "tvTypes": ["AsianDrama", "OVA"],
         "version": 1,
         "internalName": "AsiaFlixProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/AsiaFlixProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/asiandrama/AsiaFlixProvider.cs3",
         "name": "AsiaFlixProvider"
     }
 ]
