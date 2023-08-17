@@ -16,7 +16,7 @@
         "version": 1,
         "internalName": "FDMProvider",
         "description": "Indian Multi-language 4k Provider",
-        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/FDMProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/eng/FDMProvider.cs3",
         "name": "FDMProvider"
     },
     {
@@ -37,7 +37,7 @@
         ],
         "version": 8,
         "internalName": "FDM SuperStream",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/SuperStream.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/eng/SuperStream.cs3",
         "name": "FDM SuperStream"
     },
     {
@@ -55,7 +55,7 @@
         ],
         "version": 2,
         "internalName": "FDM VidSrcProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/VidSrcProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/eng/VidSrcProvider.cs3",
         "name": "FDM VidSrcProvider"
     },
     {
@@ -78,7 +78,7 @@
         "version": 156,
         "internalName": "SoraStream",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/eng/SoraStream.cs3",
         "name": "SoraStream"
     },     
     {
@@ -96,7 +96,7 @@
         ],
         "version": 1,
         "internalName": "KimCartoonProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/KimCartoonProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/eng/KimCartoonProvider.cs3",
         "name": "KimCartoonProvider"
     }
 ]
