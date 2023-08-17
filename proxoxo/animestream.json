@@ -1,4 +1,4 @@
-[   
+[
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.animeworld.tv&sz=%size%",
         "apiVersion": 1,
@@ -6,17 +6,11 @@
         "fileSize": 21059,
         "status": 1,
         "language": "it",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
+        "authors": [],
+        "tvTypes": ["AnimeMovie", "Anime", "OVA"],
         "version": 3,
         "internalName": "AnimeWorldProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AnimeWorldProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/AnimeWorldProvider.cs3",
         "name": "AnimeWorldProvider"
     },
     {
@@ -25,19 +19,13 @@
         "fileSize": 34159,
         "status": 1,
         "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
+        "authors": [],
+        "tvTypes": ["AnimeMovie", "Anime", "OVA"],
         "version": 2,
         "internalName": "AnimePaheProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/AnimePaheProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/AnimePaheProvider.cs3",
         "name": "AnimePaheProvider"
-    }, 
+    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bestdubbedanime.com&sz=%size%",
         "apiVersion": 1,
@@ -45,16 +33,11 @@
         "fileSize": 16975,
         "status": 1,
         "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime"
-        ],
+        "authors": [],
+        "tvTypes": ["AnimeMovie", "Anime"],
         "version": 1,
         "internalName": "DubbedAnimeProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/DubbedAnimeProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/DubbedAnimeProvider.cs3",
         "name": "DubbedAnimeProvider"
     },
     {
@@ -64,18 +47,13 @@
         "fileSize": 13885,
         "status": 1,
         "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime"
-        ],
+        "authors": [],
+        "tvTypes": ["AnimeMovie", "Anime"],
         "version": 1,
         "internalName": "KawaiifuProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/KawaiifuProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/KawaiifuProvider.cs3",
         "name": "KawaiifuProvider"
-    }, 
+    },
     {
         "iconUrl": "https://media.discordapp.net/attachments/1059306855865782282/1123970193274712096/Anichi.png",
         "apiVersion": 1,
@@ -83,17 +61,11 @@
         "fileSize": 62201,
         "status": 1,
         "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AnimeMovie", "Anime", "OVA"],
         "version": 8,
         "internalName": "Anichi",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anichi.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/Anichi.cs3",
         "name": "Anichi"
     },
     {
@@ -103,16 +75,11 @@
         "fileSize": 18331,
         "status": 1,
         "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime"
-        ],
+        "authors": [],
+        "tvTypes": ["AnimeMovie", "Anime"],
         "version": 2,
         "internalName": "MundoDonghuaProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/MundoDonghuaProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/MundoDonghuaProvider.cs3",
         "name": "MundoDonghuaProvider"
     },
     {
@@ -122,17 +89,11 @@
         "fileSize": 16511,
         "status": 1,
         "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AnimeMovie", "Anime", "OVA"],
         "version": 13,
         "internalName": "KuramanimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KuramanimeProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/KuramanimeProvider.cs3",
         "name": "KuramanimeProvider"
     },
     {
@@ -142,17 +103,11 @@
         "fileSize": 13812,
         "status": 1,
         "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "OVA",
-            "Anime"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AnimeMovie", "OVA", "Anime"],
         "version": 11,
         "internalName": "AnimeIndoProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/AnimeIndoProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/AnimeIndoProvider.cs3",
         "name": "AnimeIndoProvider"
     },
     {
@@ -162,18 +117,11 @@
         "fileSize": 14570,
         "status": 1,
         "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "Movie",
-            "OVA"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AnimeMovie", "Anime", "Movie", "OVA"],
         "version": 7,
         "internalName": "NeonimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/NeonimeProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/NeonimeProvider.cs3",
         "name": "NeonimeProvider"
     },
     {
@@ -183,17 +131,11 @@
         "fileSize": 20050,
         "status": 1,
         "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AnimeMovie", "Anime", "OVA"],
         "version": 13,
         "internalName": "OtakudesuProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OtakudesuProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/OtakudesuProvider.cs3",
         "name": "OtakudesuProvider"
     },
     {
@@ -203,17 +145,11 @@
         "fileSize": 19678,
         "status": 1,
         "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AnimeMovie", "Anime", "OVA"],
         "version": 7,
         "internalName": "YugenAnime",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YugenAnime.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/YugenAnime.cs3",
         "name": "YugenAnime"
     },
     {
@@ -223,17 +159,11 @@
         "fileSize": 13518,
         "status": 1,
         "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "OVA",
-            "Anime"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AnimeMovie", "OVA", "Anime"],
         "version": 1,
         "internalName": "Animasu",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Animasu.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/Animasu.cs3",
         "name": "Animasu"
     },
     {
@@ -243,17 +173,11 @@
         "fileSize": 19475,
         "status": 1,
         "language": "ru",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "OVA",
-            "Anime"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AnimeMovie", "OVA", "Anime"],
         "version": 2,
         "internalName": "Anilibria",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anilibria.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/Anilibria.cs3",
         "name": "Anilibria"
     },
     {
@@ -263,18 +187,12 @@
         "fileSize": 18826,
         "status": 1,
         "language": "de",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AnimeMovie", "Anime", "OVA"],
         "version": 5,
         "internalName": "Aniworld",
         "description": "Include: Serienstream",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Aniworld.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/Aniworld.cs3",
         "name": "Aniworld"
     },
     {
@@ -284,17 +202,11 @@
         "fileSize": 17937,
         "status": 1,
         "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
+        "authors": ["Hexated"],
+        "tvTypes": ["AnimeMovie", "Anime", "OVA"],
         "version": 3,
         "internalName": "Nimegami",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Nimegami.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/Nimegami.cs3",
         "name": "Nimegami"
     },
     {
@@ -304,16 +216,11 @@
         "fileSize": 17154,
         "status": 1,
         "language": "it",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
+        "authors": [],
+        "tvTypes": ["Anime", "AnimeMovie"],
         "version": 3,
         "internalName": "AnimeSaturnProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AnimeSaturnProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/anime/AnimeSaturnProvider.cs3",
         "name": "AnimeSaturnProvider"
     }
 ]
