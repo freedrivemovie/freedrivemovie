@@ -20,7 +20,7 @@
         "version": 2,
         "internalName": "SoraItalianStream",
         "description": "Provider che utilizza tmdb. Non tutti i links sono funzionanti",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/SoraItalianStream.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/SoraItalianStream.cs3",
         "name": "SoraItalianStream"
     },
     {
@@ -39,7 +39,7 @@
         ],
         "version": 1,
         "internalName": "Turkish",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Turkish.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/Turkish.cs3",
         "name": "Turkish"
     },
     {
@@ -50,7 +50,7 @@
         "status": 0,
         "language": "de",
         "authors": [
-            
+
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -60,7 +60,7 @@
         ],
         "version": 1,
         "internalName": "XcineProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/XcineProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/XcineProvider.cs3",
         "name": "XcineProvider"
     },
     {
@@ -78,7 +78,7 @@
         ],
         "version": 3,
         "internalName": "EurostreamingProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/EurostreamingProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/EurostreamingProvider.cs3",
         "name": "EurostreamingProvider"
     },
     {
@@ -96,7 +96,7 @@
         ],
         "version": 3,
         "internalName": "AltadefinizioneProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AltadefinizioneProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/AltadefinizioneProvider.cs3",
         "name": "AltadefinizioneProvider"
     },
     {
@@ -117,7 +117,7 @@
         "version": 5,
         "internalName": "Gomov",
         "description": "Includes: DutaMovie, Ngefilm, Nodrakorid",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Gomov.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/Gomov.cs3",
         "name": "Gomov"
     },
     {
@@ -137,7 +137,7 @@
         "version": 4,
         "internalName": "Xcineio",
         "description": "Include: Movie4k",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Xcineio.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/Xcineio.cs3",
         "name": "Xcineio"
     },
     {
@@ -158,7 +158,7 @@
         "version": 5,
         "internalName": "Gomov",
         "description": "Includes: DutaMovie, Ngefilm, Nodrakorid",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Gomov.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/Gomov.cs3",
         "name": "Gomov"
     },
     {
@@ -179,7 +179,7 @@
         ],
         "version": 3,
         "internalName": "HDrezkaProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/HDrezkaProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/HDrezkaProvider.cs3",
         "name": "HDrezkaProvider"
     },
     {
@@ -200,10 +200,10 @@
         ],
         "version": 1,
         "internalName": "Dubbindo",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dubbindo.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/Dubbindo.cs3",
         "name": "Dubbindo"
     },
-        {
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=eja.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
@@ -211,14 +211,14 @@
         "status": 1,
         "language": "en",
         "authors": [
-            
+
         ],
         "tvTypes": [
             "Live"
         ],
         "version": 1,
         "internalName": "EjaTv",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/EjaTv.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/EjaTv.cs3",
         "name": "EjaTv"
     }
 ]
