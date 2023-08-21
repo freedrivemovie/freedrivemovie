@@ -1,0 +1,8 @@
+{
+    "name": "Foreign Movie Series FreeDriveMovie repo",
+    "description": "FreeDriveMovie Foreign Movie Series or Dubbed Movies in Foreign",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/foreignstream.json"
+    ]
+  }
