@@ -1,8 +1,0 @@
-{
-    "name": "Anime FreeDriveMovie repo",
-    "description": "FreeDriveMovie Anime",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/animestream.json"
-    ]
-  }
