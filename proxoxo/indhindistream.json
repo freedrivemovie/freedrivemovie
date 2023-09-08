@@ -1,18 +1,24 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdmovie2.run&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 13509,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 47568,
         "status": 1,
         "language": "hi",
-        "authors": [],
-        "tvTypes": ["TvSeries", "Movie"],
-        "version": 3,
-        "internalName": "HDMovie5",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/HDMovie5.cs3",
-        "name": "HDMovie5"
-    },
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 39,
+        "internalName": "Movierulzhd",
+        "description": "Include: Hdmovie2",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/Movierulzhd.cs3",
+        "name": "Movierulzhd"
+    }
     {
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/ShowFlixProvider/icon.png",
         "apiVersion": 1,
