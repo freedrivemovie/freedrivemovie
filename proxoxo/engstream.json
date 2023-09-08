@@ -41,6 +41,28 @@
         "name": "FDM SuperStream"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.2embed.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
+        "fileSize": 61508,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 14,
+        "internalName": "SflixProvider",
+        "description": "Due to the video host changing encryption methods extremely often these extensions might not work perfectly. Also includes Dopebox, Solarmovie, Zoro, HDToday and 2embed",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/SflixProvider.cs3",
+        "name": "SflixProvider"
+    },
+    {
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
         "fileSize": 5144,
