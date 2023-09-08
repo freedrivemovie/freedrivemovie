@@ -1,86 +1,23 @@
 [
-    {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/FDMProvider/icon.png",
+        {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 17880,
-        "status": 1,
+        "fileSize": 30918,
+        "status": 0,
         "language": "ta",
         "authors": [
             "LikDev-256"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "FDMProvider",
-        "description": "Indian Multi-language 4k Provider",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/assets/FDMProvider.cs3",
-        "name": "FDMProvider"
-    },
-{
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
-        "fileSize": 5144,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
         "version": 2,
-        "internalName": "FDM VidSrcProvider",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/assets/VidSrcProvider.cs3",
-        "name": "FDM VidSrcProvider"
-    },
-{
-        "iconUrl": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/master/SuperStream/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
-        "fileSize": 55587,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Blatzar"
-        ],
-        "tvTypes": [
-            "Anime",
-            "Movie",
-            "AnimeMovie",
-            "TvSeries"
-        ],
-        "version": 8,
-        "internalName": "FDM SuperStream",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/assets/SuperStream.cs3",
-        "name": "FDM SuperStream"
-    },
-{
-        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 268807,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Hexated",
-            "Sora"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 156,
-        "internalName": "SoraStream",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/assets/SoraStream.cs3",
-        "name": "SoraStream"
-    }    
+        "internalName": "OlaMoviesProvider",
+        "description": "4K Provider for all Indian Languages",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/top/FreeDriveMovie.zip",
+        "name": "HDMvoie2"
+    }  
 ]
 
 
