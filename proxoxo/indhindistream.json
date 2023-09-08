@@ -14,62 +14,23 @@
         "name": "HDMovie5"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/TamilYogiProvider/logo.png",
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/ShowFlixProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 11654,
+        "fileSize": 39476,
         "status": 1,
         "language": "ta",
-        "authors": ["LikDev-256"],
-        "tvTypes": ["TvSeries", "Movie"],
-        "version": 7,
-        "internalName": "TamilYogiProvider",
-        "description": "Tamil Only Provider with frequent updates",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/TamilYogiProvider.cs3",
-        "name": "TamilYogiProvider"
-    },
-    {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 12592,
-        "status": 1,
-        "language": "en",
-        "authors": ["LikDev-256"],
-        "tvTypes": ["TvSeries"],
-        "version": 9,
-        "internalName": "NOXXProvider",
-        "description": "HD TV Shows (Not all links are working because of an unsolvable issue)",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/NOXXProvider.cs3",
-        "name": "NOXXProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/EinthusanProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
-        "fileSize": 15319,
-        "status": 1,
-        "language": "ta",
-        "authors": ["LikDev-256"],
-        "tvTypes": ["Movie"],
-        "version": 5,
-        "internalName": "EinthusanProvider",
-        "description": "Indian Multi-language HD Provider",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/EinthusanProvider.cs3",
-        "name": "EinthusanProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 47568,
-        "status": 1,
-        "language": "hi",
-        "authors": ["Hexated"],
-        "tvTypes": ["TvSeries", "Movie"],
-        "version": 39,
-        "internalName": "Movierulzhd",
-        "description": "Include: Hdmovie2",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/Movierulzhd.cs3",
-        "name": "Movierulzhd"
-    }
+        "authors": [
+            "LikDev-256"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 27,
+        "internalName": "ShowFlixProvider",
+        "description": "HD Provider for all Indian Languages",
+        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/ShowFlixProvider.cs3",
+        "name": "ShowFlixProvider"
+    }    
 ]
