@@ -1,21 +1,22 @@
 [   
- {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdmovie2.run&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-    "fileSize": 13509,
-    "status": 1,
-    "language": "hi",
-    "authors": [
-        
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie"
-    ],
-    "version": 3,
-    "internalName": "HDMovie5",
-    "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/HDMovie5.cs3",
-    "name": "HDMovie5"
-  }
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 47568,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 39,
+        "internalName": "Movierulzhd",
+        "description": "Include: Hdmovie2",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
+        "name": "Movierulzhd"
+    }
 ]
