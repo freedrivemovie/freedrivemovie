@@ -82,21 +82,21 @@
         "name": "SoraStream"
     },     
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kimcartoon.li&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
-        "fileSize": 11505,
+        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+        "fileSize": 12592,
         "status": 1,
         "language": "en",
         "authors": [
-            
+            "LikDev-256"
         ],
         "tvTypes": [
-            "Cartoon"
+            "TvSeries"
         ],
-        "version": 1,
-        "internalName": "KimCartoonProvider",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/eng/KimCartoonProvider.cs3",
-        "name": "KimCartoonProvider"
+        "version": 9,
+        "internalName": "NOXXProvider",
+        "description": "HD TV Shows (Not all links are working because of a unsolvable issue)",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/eng/NOXXProvider.cs3",
+        "name": "NOXXProvider"
     }
 ]
