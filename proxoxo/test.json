@@ -1,20 +1,23 @@
 [   
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=altadefinizione.tienda&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.xyz&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 12241,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 12133,
         "status": 1,
-        "language": "it",
+        "language": "id",
         "authors": [
-            "Adippe"
+            "Hexated"
         ],
         "tvTypes": [
-            "Movie"
+            "TvSeries",
+            "Movie",
+            "Cartoon",
+            "Anime"
         ],
-        "version": 3,
-        "internalName": "AltadefinizioneProvider",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/AltadefinizioneProvider.cs3",
-        "name": "AltadefinizioneProvider"
+        "version": 1,
+        "internalName": "Dubbindo",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/Dubbindo.cs3",
+        "name": "Dubbindo"
     }
 ]
