@@ -19,6 +19,27 @@
     "name": "HDMovie5"
     },
     {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+        "fileSize": 27434,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "LikDev-256"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon"
+        ],
+        "version": 12,
+        "internalName": "AllMovieLandProvider",
+        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
+        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/AllMovieLandProvider.cs3",
+        "name": "AllMovieLandProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
