@@ -1,23 +1,26 @@
 [   
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.xyz&sz=%size%",
+ {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 12133,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 60809,
         "status": 1,
-        "language": "id",
+        "language": "it",
         "authors": [
-            "Hexated"
+            "Adippe",
+            "Forthe"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie",
-            "Cartoon",
-            "Anime"
+            "AnimeMovie",
+            "Anime",
+            "OVA"
         ],
-        "version": 1,
-        "internalName": "Dubbindo",
-        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/Dubbindo.cs3",
-        "name": "Dubbindo"
+        "version": 2,
+        "internalName": "SoraItalianStream",
+        "description": "Provider che utilizza tmdb. Non tutti i links sono funzionanti",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/SoraItalianStream.cs3",
+        "name": "SoraItalianStream"
     }
 ]
