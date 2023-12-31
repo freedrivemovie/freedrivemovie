@@ -96,7 +96,7 @@
         "version": 3,
         "internalName": "PrMoviesProvider",
         "description": "Contains Bharatiya Movies & Webseries from Indian Film Industry and Dubbed Hollywood content, Max Resolution is 720p",
-        "url": "https://raw.githubusercontent.com/IndusAryan/Aryans-Cloudstream-Extensions/builds/PrMoviesProvider.cs3",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/indian/PrMoviesProvider.cs3",
         "name": "PrMoviesProvider"
     }
 ]
