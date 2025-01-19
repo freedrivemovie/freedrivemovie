@@ -3,6 +3,6 @@
     "description": "Cloudstream English Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/test.json"
+      "https://raw.githubusercontent.com/shadshuvo/fdm/refs/heads/main/proxoxo/test.json"
     ]
   }
